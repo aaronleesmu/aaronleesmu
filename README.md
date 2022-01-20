@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm also here at 
+I'm here at 
 - https://scis.smu.edu.sg/people/staff
 - https://gitlab.com/aaronleesmu
 - https://github.com/aaronlks
