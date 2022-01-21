@@ -3,6 +3,8 @@
 I'm work here at 
 - https://scis.smu.edu.sg/people/staff
 - https://gitlab.com/aaronleesmu
+
+**Personal Github:**
 - https://github.com/aaronlks
 
 <!--
