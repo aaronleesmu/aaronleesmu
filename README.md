@@ -4,9 +4,6 @@ I'm work here at
 - https://scis.smu.edu.sg/people/staff
 - https://gitlab.com/aaronleesmu
 
-**Personal Github:**
-- https://github.com/aaronlks
-
 <!--
 **aaronleesmu/aaronleesmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
