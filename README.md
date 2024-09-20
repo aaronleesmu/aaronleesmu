@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I work at 
-- https://computing.smu.edu.sg/people/staff
-- https://gitlab.com/aaronleesmu
+I work at https://computing.smu.edu.sg/people/staff
 
 - 📫 How to reach me: https://www.linkedin.com/in/aaronlks/
 
