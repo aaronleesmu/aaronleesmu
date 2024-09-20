@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I work at 
-- https://scis.smu.edu.sg/people/staff
+- https://computing.smu.edu.sg/people/staff
 - https://gitlab.com/aaronleesmu
-- https://www.linkedin.com/in/aaronlks/
+
+- 📫 How to reach me: https://www.linkedin.com/in/aaronlks/
 
 <!--
 **aaronleesmu/aaronleesmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
