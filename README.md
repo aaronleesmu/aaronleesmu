@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I work at https://computing.smu.edu.sg/people/staff
+I work at https://computing.smu.edu.sg
 
 - 📫 How to reach me: https://www.linkedin.com/in/aaronlks/
+- Personal GitHub: https://github.com/aaronlks
 
 <!--
 **aaronleesmu/aaronleesmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
